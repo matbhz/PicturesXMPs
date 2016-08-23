@@ -1,0 +1,13 @@
+*.cr2
+*.jpg
+*.jpeg
+*.tiff
+*.tif
+*.mov
+*lrcat*
+*.Trashes*
+.Spotlight-V100/
+*com.apple*
+Pictures/20*/*.cr2
+*catalog*
+.fseventsd/
