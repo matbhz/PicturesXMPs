@@ -8,6 +8,6 @@
 *.Trashes*
 .Spotlight-V100/
 *com.apple*
-Pictures/20*/*.cr2
+Pictures/*/*.cr2
 *catalog*
 .fseventsd/
