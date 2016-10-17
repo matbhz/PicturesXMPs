@@ -1,0 +1,88 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmp:ModifyDate="2016-07-01T16:09:25.00"
+   xmp:CreateDate="2016-07-01T16:09:25.00"
+   xmp:MetadataDate="2016-08-22T23:17:16-07:00"
+   tiff:Make="Canon"
+   tiff:Model="Canon EOS 6D"
+   tiff:Orientation="1"
+   tiff:ImageWidth="5472"
+   tiff:ImageLength="3648"
+   exif:ExifVersion="0230"
+   exif:ExposureTime="1/250"
+   exif:ShutterSpeedValue="7965784/1000000"
+   exif:FNumber="28/10"
+   exif:ApertureValue="2970854/1000000"
+   exif:ExposureProgram="3"
+   exif:SensitivityType="2"
+   exif:RecommendedExposureIndex="100"
+   exif:ExposureBiasValue="-4/3"
+   exif:MaxApertureValue="3/1"
+   exif:MeteringMode="5"
+   exif:FocalLength="70/1"
+   exif:CustomRendered="0"
+   exif:ExposureMode="0"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:FocalPlaneXResolution="49807360/32768"
+   exif:FocalPlaneYResolution="49807360/32768"
+   exif:FocalPlaneResolutionUnit="3"
+   exif:DateTimeOriginal="2016-07-01T16:09:25.00"
+   exif:PixelXDimension="5472"
+   exif:PixelYDimension="3648"
+   dc:format="image/x-canon-cr2"
+   aux:SerialNumber="302121001261"
+   aux:LensInfo="24/1 70/1 0/0 0/0"
+   aux:Lens="EF24-70mm f/2.8L II USM"
+   aux:LensID="495"
+   aux:LensSerialNumber="2620000599"
+   aux:ImageNumber="0"
+   aux:ApproximateFocusDistance="450/100"
+   aux:FlashCompensation="0/1"
+   aux:Firmware="1.1.6"
+   photoshop:DateCreated="2016-07-01T16:09:25.00"
+   photoshop:SidecarForExtension="CR2"
+   photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
+   xmpMM:DocumentID="41111B30B63A3E9AAC8FA3464858C439"
+   xmpMM:OriginalDocumentID="41111B30B63A3E9AAC8FA3464858C439"
+   xmpMM:InstanceID="xmp.iid:b6e862f7-b0d7-4a78-a50c-467ef78a2dd3"
+   crs:RawFileName="IMG_7051.CR2">
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>100</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="2"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Matheus Felipe&#xA;matbhz</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:b6e862f7-b0d7-4a78-a50c-467ef78a2dd3"
+      stEvt:when="2016-08-22T23:17:16-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 5.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

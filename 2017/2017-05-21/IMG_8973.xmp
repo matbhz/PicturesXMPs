@@ -1,0 +1,114 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:exifEX="http://cipa.jp/exif/1.0/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmp:ModifyDate="2017-05-21T12:02:37.00"
+   xmp:CreateDate="2017-05-21T12:02:37.00"
+   xmp:MetadataDate="2018-07-29T17:56:48-07:00"
+   tiff:Make="Canon"
+   tiff:Model="Canon EOS 6D"
+   tiff:Orientation="1"
+   tiff:ImageWidth="5472"
+   tiff:ImageLength="3648"
+   exif:ExifVersion="0230"
+   exif:ExposureTime="1/500"
+   exif:ShutterSpeedValue="8965784/1000000"
+   exif:FNumber="9/1"
+   exif:ApertureValue="633985/100000"
+   exif:ExposureProgram="3"
+   exif:SensitivityType="2"
+   exif:RecommendedExposureIndex="100"
+   exif:ExposureBiasValue="-2/3"
+   exif:MaxApertureValue="3/1"
+   exif:MeteringMode="5"
+   exif:FocalLength="35/1"
+   exif:CustomRendered="0"
+   exif:ExposureMode="0"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:FocalPlaneXResolution="49807360/32768"
+   exif:FocalPlaneYResolution="49807360/32768"
+   exif:FocalPlaneResolutionUnit="3"
+   exif:DateTimeOriginal="2017-05-21T12:02:37.00"
+   exif:PixelXDimension="5472"
+   exif:PixelYDimension="3648"
+   dc:format="image/x-canon-cr2"
+   aux:SerialNumber="302121001261"
+   aux:LensInfo="24/1 70/1 0/0 0/0"
+   aux:Lens="EF24-70mm f/2.8L II USM"
+   aux:LensID="495"
+   aux:LensSerialNumber="2620000599"
+   aux:ImageNumber="0"
+   aux:ApproximateFocusDistance="472/100"
+   aux:FlashCompensation="0/1"
+   aux:Firmware="1.1.6"
+   exifEX:LensModel="EF24-70mm f/2.8L II USM"
+   photoshop:DateCreated="2017-05-21T12:02:37.00"
+   photoshop:SidecarForExtension="CR2"
+   photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
+   xmpMM:DocumentID="55C868C0AD4A5AB0C5C760097A660436"
+   xmpMM:OriginalDocumentID="55C868C0AD4A5AB0C5C760097A660436"
+   xmpMM:InstanceID="xmp.iid:b2e07216-5e5c-4973-bb47-e7541d00316b"
+   crs:RawFileName="IMG_8973.CR2">
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>100</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="2"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Matheus Felipe&#xA;matbhz</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:b2e07216-5e5c-4973-bb47-e7541d00316b"
+      stEvt:when="2018-07-29T17:56:48-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="5472"
+     stDim:h="3648"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="-0.02728"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.08265"
+        stArea:w="0.05504"
+        stArea:x="0.62595"
+        stArea:y="0.21885"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
