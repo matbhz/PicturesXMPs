@@ -1,4 +1,4 @@
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
@@ -12,7 +12,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2014-07-20T15:31:48.00"
    xmp:CreateDate="2014-07-20T15:31:48.00"
-   xmp:MetadataDate="2014-09-14T20:38:01-07:00"
+   xmp:MetadataDate="2018-08-06T16:29:17-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 60D"
    tiff:Orientation="1"
@@ -55,11 +55,10 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="84EE766107036BBD9870ED9B4E55C123"
    xmpMM:OriginalDocumentID="84EE766107036BBD9870ED9B4E55C123"
-   xmpMM:InstanceID="xmp.iid:a6221f2e-54f3-4445-b2df-60b655ed6078"
-   crs:Version="8.2"
+   xmpMM:InstanceID="xmp.iid:6a0217bd-48f5-42d4-9eda-7df7f731dcf0"
+   crs:Version="10.2"
    crs:ProcessVersion="6.7"
    crs:WhiteBalance="As Shot"
-   crs:AutoWhiteVersion="134348800"
    crs:Temperature="5750"
    crs:Tint="+9"
    crs:Saturation="0"
@@ -126,6 +125,8 @@
    crs:PerspectiveScale="100"
    crs:PerspectiveAspect="0"
    crs:PerspectiveUpright="0"
+   crs:PerspectiveX="0.00"
+   crs:PerspectiveY="0.00"
    crs:AutoLateralCA="0"
    crs:Exposure2012="+0.70"
    crs:Contrast2012="-25"
@@ -140,19 +141,22 @@
    crs:DefringeGreenAmount="0"
    crs:DefringeGreenHueLo="40"
    crs:DefringeGreenHueHi="60"
+   crs:Dehaze="0"
    crs:ConvertToGrayscale="False"
+   crs:ToneCurveName="Medium Contrast"
    crs:ToneCurveName2012="Linear"
    crs:CameraProfile="Adobe Standard"
    crs:CameraProfileDigest="91F0E959CCCF4F80FB56FBB1875E2FE0"
    crs:LensProfileSetup="LensDefaults"
-   crs:UprightVersion="134217728"
+   crs:UprightVersion="151388160"
    crs:UprightCenterMode="0"
    crs:UprightCenterNormX="0.5"
    crs:UprightCenterNormY="0.5"
    crs:UprightFocalMode="0"
    crs:UprightFocalLength35mm="35"
    crs:UprightPreview="False"
-   crs:UprightTransformCount="0"
+   crs:UprightTransformCount="6"
+   crs:UprightFourSegmentsCount="0"
    crs:HasSettings="True"
    crs:AlreadyApplied="False"
    crs:RawFileName="IMG_1031.CR2">
@@ -185,8 +189,42 @@
       stEvt:when="2014-09-14T20:38:01-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 5.0 (Macintosh)"
       stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:6a0217bd-48f5-42d4-9eda-7df7f731dcf0"
+      stEvt:when="2018-08-06T16:29:17-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
+      stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>32, 22</rdf:li>
+     <rdf:li>64, 56</rdf:li>
+     <rdf:li>128, 128</rdf:li>
+     <rdf:li>192, 196</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:ToneCurveRed>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveRed>
+   <crs:ToneCurveGreen>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveGreen>
+   <crs:ToneCurveBlue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveBlue>
    <crs:ToneCurvePV2012>
     <rdf:Seq>
      <rdf:li>0, 0</rdf:li>

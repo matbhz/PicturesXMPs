@@ -1,4 +1,4 @@
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
@@ -9,10 +9,13 @@
     xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2014-07-20T15:27:14.00"
    xmp:CreateDate="2014-07-20T15:27:14.00"
-   xmp:MetadataDate="2014-09-14T20:38:01-07:00"
+   xmp:MetadataDate="2018-08-06T16:29:02-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 60D"
    tiff:Orientation="1"
@@ -55,7 +58,7 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="8C9F5119CF464EF5373B0FE2CAA034E6"
    xmpMM:OriginalDocumentID="8C9F5119CF464EF5373B0FE2CAA034E6"
-   xmpMM:InstanceID="xmp.iid:c26ec463-5df5-409f-8140-229597ea59e8"
+   xmpMM:InstanceID="xmp.iid:6f2ee687-22d8-4903-88c4-ea4364d9e212"
    crs:RawFileName="IMG_1026.CR2">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
@@ -86,8 +89,46 @@
       stEvt:when="2014-09-14T20:38:01-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 5.0 (Macintosh)"
       stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:6f2ee687-22d8-4903-88c4-ea4364d9e212"
+      stEvt:when="2018-08-06T16:29:02-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
+      stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="5184"
+     stDim:h="3456"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="-0.18645"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.13249"
+        stArea:w="0.08824"
+        stArea:x="0.62391"
+        stArea:y="0.29813"/>
+       </rdf:Description>
+      </rdf:li>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="-0.12693"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.14601"
+        stArea:w="0.09724"
+        stArea:x="0.69104"
+        stArea:y="0.19642"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

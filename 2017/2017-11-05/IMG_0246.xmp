@@ -13,7 +13,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2017-11-05T03:44:37.46"
    xmp:CreateDate="2017-11-05T03:44:37.46"
-   xmp:MetadataDate="2018-08-02T21:47:32-07:00"
+   xmp:MetadataDate="2018-08-04T17:00-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="1"
@@ -57,7 +57,137 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="E04BCB4B624A321681739ECD48A1F2B4"
    xmpMM:OriginalDocumentID="E04BCB4B624A321681739ECD48A1F2B4"
-   xmpMM:InstanceID="xmp.iid:f3e173d6-708e-45a6-a63f-b8f01ba96f72"
+   xmpMM:InstanceID="xmp.iid:86d88cba-b042-411c-93d4-e9c4e604c4d1"
+   crs:Version="10.2"
+   crs:ProcessVersion="10.0"
+   crs:WhiteBalance="Custom"
+   crs:Temperature="4090"
+   crs:Tint="+7"
+   crs:Saturation="0"
+   crs:Sharpness="60"
+   crs:LuminanceSmoothing="28"
+   crs:ColorNoiseReduction="25"
+   crs:VignetteAmount="0"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:Vibrance="-42"
+   crs:HueAdjustmentRed="0"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="0"
+   crs:HueAdjustmentGreen="0"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="0"
+   crs:HueAdjustmentPurple="0"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="+50"
+   crs:SaturationAdjustmentOrange="+53"
+   crs:SaturationAdjustmentYellow="0"
+   crs:SaturationAdjustmentGreen="-73"
+   crs:SaturationAdjustmentAqua="+40"
+   crs:SaturationAdjustmentBlue="0"
+   crs:SaturationAdjustmentPurple="-56"
+   crs:SaturationAdjustmentMagenta="0"
+   crs:LuminanceAdjustmentRed="0"
+   crs:LuminanceAdjustmentOrange="+31"
+   crs:LuminanceAdjustmentYellow="0"
+   crs:LuminanceAdjustmentGreen="+38"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="0"
+   crs:SplitToningHighlightSaturation="0"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="-25"
+   crs:PostCropVignetteMidpoint="0"
+   crs:PostCropVignetteFeather="100"
+   crs:PostCropVignetteRoundness="-13"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="0"
+   crs:GrainAmount="0"
+   crs:LuminanceNoiseReductionDetail="50"
+   crs:ColorNoiseReductionDetail="50"
+   crs:LuminanceNoiseReductionContrast="0"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:LensProfileEnable="1"
+   crs:LensManualDistortionAmount="0"
+   crs:PerspectiveVertical="0"
+   crs:PerspectiveHorizontal="0"
+   crs:PerspectiveRotate="0.0"
+   crs:PerspectiveScale="100"
+   crs:PerspectiveAspect="0"
+   crs:PerspectiveUpright="1"
+   crs:PerspectiveX="0.00"
+   crs:PerspectiveY="0.00"
+   crs:AutoLateralCA="1"
+   crs:Exposure2012="0.00"
+   crs:Contrast2012="0"
+   crs:Highlights2012="-57"
+   crs:Shadows2012="+43"
+   crs:Whites2012="+68"
+   crs:Blacks2012="-25"
+   crs:Clarity2012="+36"
+   crs:DefringePurpleAmount="0"
+   crs:DefringePurpleHueLo="30"
+   crs:DefringePurpleHueHi="70"
+   crs:DefringeGreenAmount="0"
+   crs:DefringeGreenHueLo="40"
+   crs:DefringeGreenHueHi="60"
+   crs:Dehaze="0"
+   crs:ConvertToGrayscale="False"
+   crs:ToneCurveName="Medium Contrast"
+   crs:ToneCurveName2012="Linear"
+   crs:CameraProfile="Adobe Standard"
+   crs:CameraProfileDigest="98BA1AFA1155D0472068BB57D3655975"
+   crs:LensProfileSetup="LensDefaults"
+   crs:LensProfileName="Adobe (Canon EF 24-70mm f/2.8 L II USM)"
+   crs:LensProfileFilename="Canon EOS 5D Mark II (Canon EF 24-70mm f2.8 L II USM) - RAW.lcp"
+   crs:LensProfileDigest="AFEEACDA8777F259982DCD59A5178FC0"
+   crs:LensProfileDistortionScale="100"
+   crs:LensProfileChromaticAberrationScale="100"
+   crs:LensProfileVignettingScale="100"
+   crs:UprightVersion="151388160"
+   crs:UprightCenterMode="0"
+   crs:UprightCenterNormX="0.482836"
+   crs:UprightCenterNormY="0.512904"
+   crs:UprightFocalMode="0"
+   crs:UprightFocalLength35mm="26.8685"
+   crs:UprightPreview="False"
+   crs:UprightDependentDigest="2F1C079C21AE0DC1773923B568651858"
+   crs:UprightTransformCount="6"
+   crs:UprightTransform_0="1.000000000,0.000000000,0.000000000,0.000000000,1.000000000,0.000000000,0.000000000,0.000000000,1.000000000"
+   crs:UprightTransform_1="0.959198648,-0.022880594,-0.000446767,-0.036857130,0.947279557,-0.006182861,-0.039201453,-0.067980101,1.000000000"
+   crs:UprightTransform_2="0.998705679,-0.031054321,-0.000390471,-0.019048985,0.963175262,-0.013366699,0.000002735,-0.081367003,1.000000000"
+   crs:UprightTransform_3="1.021632430,0.009917041,-0.015774735,-0.022313342,1.021632430,0.000340456,0.000000000,0.000000000,1.000000000"
+   crs:UprightTransform_4="0.998702873,-0.031054236,-0.000390445,-0.019050000,0.963173870,-0.013366699,0.000000000,-0.081366917,1.000000000"
+   crs:UprightTransform_5="1.000000000,0.000000000,0.000000000,0.000000000,1.000000000,0.000000000,0.000000000,0.000000000,1.000000000"
+   crs:UprightFourSegmentsCount="0"
+   crs:HasSettings="True"
+   crs:CropTop="0"
+   crs:CropLeft="0.3862"
+   crs:CropBottom="1"
+   crs:CropRight="0.7612"
+   crs:CropAngle="0"
+   crs:CropConstrainToWarp="0"
+   crs:HasCrop="True"
+   crs:AlreadyApplied="False"
    crs:RawFileName="IMG_0246.CR2">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
@@ -79,12 +209,64 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:f3e173d6-708e-45a6-a63f-b8f01ba96f72"
-      stEvt:when="2018-08-02T21:47:32-07:00"
+      stEvt:instanceID="xmp.iid:86d88cba-b042-411c-93d4-e9c4e604c4d1"
+      stEvt:when="2018-08-04T17:00-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>32, 22</rdf:li>
+     <rdf:li>64, 56</rdf:li>
+     <rdf:li>128, 128</rdf:li>
+     <rdf:li>192, 196</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:ToneCurveRed>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveRed>
+   <crs:ToneCurveGreen>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveGreen>
+   <crs:ToneCurveBlue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveBlue>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

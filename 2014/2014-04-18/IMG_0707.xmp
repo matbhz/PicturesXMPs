@@ -1,4 +1,4 @@
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
@@ -12,7 +12,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2014-04-18T14:19:21.86"
    xmp:CreateDate="2014-04-18T14:19:21.86"
-   xmp:MetadataDate="2014-09-14T20:37:21-07:00"
+   xmp:MetadataDate="2018-08-06T15:43:47-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 60D"
    tiff:Orientation="1"
@@ -55,124 +55,7 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="F8AC42B523D11C619FFE261720AED911"
    xmpMM:OriginalDocumentID="F8AC42B523D11C619FFE261720AED911"
-   xmpMM:InstanceID="xmp.iid:632c3d4b-1a67-4881-8010-73674639b6a6"
-   crs:Version="8.2"
-   crs:ProcessVersion="6.7"
-   crs:WhiteBalance="As Shot"
-   crs:AutoWhiteVersion="134348800"
-   crs:Temperature="5750"
-   crs:Tint="+8"
-   crs:Saturation="+36"
-   crs:Sharpness="58"
-   crs:LuminanceSmoothing="26"
-   crs:ColorNoiseReduction="0"
-   crs:VignetteAmount="0"
-   crs:ShadowTint="0"
-   crs:RedHue="+41"
-   crs:RedSaturation="+16"
-   crs:GreenHue="0"
-   crs:GreenSaturation="0"
-   crs:BlueHue="0"
-   crs:BlueSaturation="+25"
-   crs:Vibrance="+21"
-   crs:HueAdjustmentRed="0"
-   crs:HueAdjustmentOrange="0"
-   crs:HueAdjustmentYellow="0"
-   crs:HueAdjustmentGreen="0"
-   crs:HueAdjustmentAqua="0"
-   crs:HueAdjustmentBlue="0"
-   crs:HueAdjustmentPurple="0"
-   crs:HueAdjustmentMagenta="0"
-   crs:SaturationAdjustmentRed="0"
-   crs:SaturationAdjustmentOrange="0"
-   crs:SaturationAdjustmentYellow="0"
-   crs:SaturationAdjustmentGreen="0"
-   crs:SaturationAdjustmentAqua="0"
-   crs:SaturationAdjustmentBlue="-27"
-   crs:SaturationAdjustmentPurple="0"
-   crs:SaturationAdjustmentMagenta="0"
-   crs:LuminanceAdjustmentRed="0"
-   crs:LuminanceAdjustmentOrange="0"
-   crs:LuminanceAdjustmentYellow="0"
-   crs:LuminanceAdjustmentGreen="0"
-   crs:LuminanceAdjustmentAqua="0"
-   crs:LuminanceAdjustmentBlue="-9"
-   crs:LuminanceAdjustmentPurple="0"
-   crs:LuminanceAdjustmentMagenta="0"
-   crs:SplitToningShadowHue="110"
-   crs:SplitToningShadowSaturation="13"
-   crs:SplitToningHighlightHue="237"
-   crs:SplitToningHighlightSaturation="0"
-   crs:SplitToningBalance="0"
-   crs:ParametricShadows="0"
-   crs:ParametricDarks="0"
-   crs:ParametricLights="0"
-   crs:ParametricHighlights="0"
-   crs:ParametricShadowSplit="25"
-   crs:ParametricMidtoneSplit="50"
-   crs:ParametricHighlightSplit="75"
-   crs:SharpenRadius="+1.0"
-   crs:SharpenDetail="50"
-   crs:SharpenEdgeMasking="0"
-   crs:PostCropVignetteAmount="-5"
-   crs:PostCropVignetteMidpoint="50"
-   crs:PostCropVignetteFeather="50"
-   crs:PostCropVignetteRoundness="0"
-   crs:PostCropVignetteStyle="1"
-   crs:PostCropVignetteHighlightContrast="0"
-   crs:GrainAmount="0"
-   crs:LuminanceNoiseReductionDetail="50"
-   crs:LuminanceNoiseReductionContrast="0"
-   crs:LensProfileEnable="0"
-   crs:LensManualDistortionAmount="0"
-   crs:PerspectiveVertical="0"
-   crs:PerspectiveHorizontal="0"
-   crs:PerspectiveRotate="0.0"
-   crs:PerspectiveScale="100"
-   crs:PerspectiveAspect="0"
-   crs:PerspectiveUpright="0"
-   crs:AutoLateralCA="0"
-   crs:Exposure2012="+0.40"
-   crs:Contrast2012="+28"
-   crs:Highlights2012="-100"
-   crs:Shadows2012="+32"
-   crs:Whites2012="+48"
-   crs:Blacks2012="-35"
-   crs:Clarity2012="+20"
-   crs:DefringePurpleAmount="0"
-   crs:DefringePurpleHueLo="30"
-   crs:DefringePurpleHueHi="70"
-   crs:DefringeGreenAmount="0"
-   crs:DefringeGreenHueLo="40"
-   crs:DefringeGreenHueHi="60"
-   crs:ConvertToGrayscale="False"
-   crs:ToneCurveName2012="Custom"
-   crs:CameraProfile="Adobe Standard"
-   crs:CameraProfileDigest="91F0E959CCCF4F80FB56FBB1875E2FE0"
-   crs:LensProfileSetup="LensDefaults"
-   crs:LensProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS)"
-   crs:LensProfileFilename="Canon EOS 50D (Canon EF-S 18-135mm f3.5-5.6 IS) - RAW.lcp"
-   crs:LensProfileDigest="99679FE8D18707EEC1A3820151552A5D"
-   crs:LensProfileDistortionScale="100"
-   crs:LensProfileChromaticAberrationScale="100"
-   crs:LensProfileVignettingScale="100"
-   crs:UprightVersion="134217728"
-   crs:UprightCenterMode="0"
-   crs:UprightCenterNormX="0.5"
-   crs:UprightCenterNormY="0.5"
-   crs:UprightFocalMode="0"
-   crs:UprightFocalLength35mm="35"
-   crs:UprightPreview="False"
-   crs:UprightTransformCount="0"
-   crs:HasSettings="True"
-   crs:CropTop="0.032807"
-   crs:CropLeft="0.009113"
-   crs:CropBottom="0.967193"
-   crs:CropRight="0.990887"
-   crs:CropAngle="-1.29542"
-   crs:CropConstrainToWarp="0"
-   crs:HasCrop="True"
-   crs:AlreadyApplied="False"
+   xmpMM:InstanceID="xmp.iid:060b996b-6e1d-4ad2-9846-c2f06b0a3574"
    crs:RawFileName="IMG_0707.CR2">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
@@ -203,109 +86,14 @@
       stEvt:when="2014-09-14T20:37:21-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 5.0 (Macintosh)"
       stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:060b996b-6e1d-4ad2-9846-c2f06b0a3574"
+      stEvt:when="2018-08-06T15:43:47-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
+      stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>
-   <crs:ToneCurvePV2012>
-    <rdf:Seq>
-     <rdf:li>11, 0</rdf:li>
-     <rdf:li>108, 129</rdf:li>
-     <rdf:li>255, 255</rdf:li>
-    </rdf:Seq>
-   </crs:ToneCurvePV2012>
-   <crs:ToneCurvePV2012Red>
-    <rdf:Seq>
-     <rdf:li>0, 0</rdf:li>
-     <rdf:li>255, 255</rdf:li>
-    </rdf:Seq>
-   </crs:ToneCurvePV2012Red>
-   <crs:ToneCurvePV2012Green>
-    <rdf:Seq>
-     <rdf:li>0, 0</rdf:li>
-     <rdf:li>255, 255</rdf:li>
-    </rdf:Seq>
-   </crs:ToneCurvePV2012Green>
-   <crs:ToneCurvePV2012Blue>
-    <rdf:Seq>
-     <rdf:li>0, 0</rdf:li>
-     <rdf:li>255, 255</rdf:li>
-    </rdf:Seq>
-   </crs:ToneCurvePV2012Blue>
-   <crs:GradientBasedCorrections>
-    <rdf:Seq>
-     <rdf:li>
-      <rdf:Description
-       crs:What="Correction"
-       crs:CorrectionAmount="1.000000"
-       crs:CorrectionActive="true"
-       crs:LocalExposure="0.000000"
-       crs:LocalSaturation="0.042857"
-       crs:LocalContrast="0.000000"
-       crs:LocalClarity="0.000000"
-       crs:LocalSharpness="0.000000"
-       crs:LocalBrightness="0.000000"
-       crs:LocalToningHue="0.000000"
-       crs:LocalToningSaturation="0.000000"
-       crs:LocalExposure2012="0.050000"
-       crs:LocalContrast2012="1.000000"
-       crs:LocalHighlights2012="-0.022619"
-       crs:LocalShadows2012="0.480878"
-       crs:LocalClarity2012="0.037351"
-       crs:LocalLuminanceNoise="0.000000"
-       crs:LocalMoire="0.000000"
-       crs:LocalDefringe="0.000000"
-       crs:LocalTemperature="0.000000"
-       crs:LocalTint="0.000000">
-      <crs:CorrectionMasks>
-       <rdf:Seq>
-        <rdf:li
-         crs:What="Mask/Gradient"
-         crs:MaskValue="1.000000"
-         crs:ZeroX="0.549818"
-         crs:ZeroY="0.857937"
-         crs:FullX="0.541832"
-         crs:FullY="0.328208"/>
-       </rdf:Seq>
-      </crs:CorrectionMasks>
-      </rdf:Description>
-     </rdf:li>
-     <rdf:li>
-      <rdf:Description
-       crs:What="Correction"
-       crs:CorrectionAmount="1.000000"
-       crs:CorrectionActive="true"
-       crs:LocalExposure="0.000000"
-       crs:LocalSaturation="0.000000"
-       crs:LocalContrast="0.000000"
-       crs:LocalClarity="0.000000"
-       crs:LocalSharpness="0.000000"
-       crs:LocalBrightness="0.000000"
-       crs:LocalToningHue="0.000000"
-       crs:LocalToningSaturation="0.000000"
-       crs:LocalExposure2012="-0.020461"
-       crs:LocalContrast2012="0.512946"
-       crs:LocalHighlights2012="0.000000"
-       crs:LocalShadows2012="0.000000"
-       crs:LocalClarity2012="1.000000"
-       crs:LocalLuminanceNoise="0.000000"
-       crs:LocalMoire="0.000000"
-       crs:LocalDefringe="0.000000"
-       crs:LocalTemperature="0.000000"
-       crs:LocalTint="0.000000">
-      <crs:CorrectionMasks>
-       <rdf:Seq>
-        <rdf:li
-         crs:What="Mask/Gradient"
-         crs:MaskValue="1.000000"
-         crs:ZeroX="0.551856"
-         crs:ZeroY="0.670448"
-         crs:FullX="0.545685"
-         crs:FullY="0.261114"/>
-       </rdf:Seq>
-      </crs:CorrectionMasks>
-      </rdf:Description>
-     </rdf:li>
-    </rdf:Seq>
-   </crs:GradientBasedCorrections>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

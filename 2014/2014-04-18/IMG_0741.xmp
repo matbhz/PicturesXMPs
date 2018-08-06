@@ -1,4 +1,4 @@
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
@@ -12,7 +12,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2014-04-18T14:58:45.09"
    xmp:CreateDate="2014-04-18T14:58:45.09"
-   xmp:MetadataDate="2014-09-14T20:37:28-07:00"
+   xmp:MetadataDate="2018-08-06T15:56:35-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 60D"
    tiff:Orientation="1"
@@ -55,7 +55,7 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="00DCFA58B4F88E9B3F24F424CCF32E76"
    xmpMM:OriginalDocumentID="00DCFA58B4F88E9B3F24F424CCF32E76"
-   xmpMM:InstanceID="xmp.iid:2f12f9e3-ed12-4225-a777-e03c0dc53339"
+   xmpMM:InstanceID="xmp.iid:6903a9ad-d50c-4cd5-863b-d15e0c69916c"
    crs:RawFileName="IMG_0741.CR2">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
@@ -85,6 +85,12 @@
       stEvt:instanceID="xmp.iid:2f12f9e3-ed12-4225-a777-e03c0dc53339"
       stEvt:when="2014-09-14T20:37:28-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 5.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:6903a9ad-d50c-4cd5-863b-d15e0c69916c"
+      stEvt:when="2018-08-06T15:56:35-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>

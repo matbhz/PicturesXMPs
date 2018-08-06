@@ -13,7 +13,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2018-04-21T08:27:48.00"
    xmp:CreateDate="2018-04-21T08:27:48.00"
-   xmp:MetadataDate="2018-07-29T18:36:25-07:00"
+   xmp:MetadataDate="2018-08-04T17:44:18-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="1"
@@ -57,7 +57,15 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="698BBC562701ACF1669A203EB0878693"
    xmpMM:OriginalDocumentID="698BBC562701ACF1669A203EB0878693"
-   xmpMM:InstanceID="xmp.iid:0350a018-c29a-4fd9-94ef-766de78fc9e4"
+   xmpMM:InstanceID="xmp.iid:e748da52-f0ba-4a92-8ede-6a00a4fefc5d"
+   crs:CropTop="0.344621"
+   crs:CropLeft="0.442872"
+   crs:CropBottom="0.679745"
+   crs:CropRight="0.777996"
+   crs:CropAngle="0"
+   crs:CropConstrainToWarp="0"
+   crs:HasCrop="True"
+   crs:AlreadyApplied="False"
    crs:RawFileName="IMG_9313.CR2">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
@@ -79,8 +87,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:0350a018-c29a-4fd9-94ef-766de78fc9e4"
-      stEvt:when="2018-07-29T18:36:25-07:00"
+      stEvt:instanceID="xmp.iid:e748da52-f0ba-4a92-8ede-6a00a4fefc5d"
+      stEvt:when="2018-08-04T17:44:18-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
