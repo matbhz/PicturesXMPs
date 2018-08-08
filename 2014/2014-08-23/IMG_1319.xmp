@@ -12,7 +12,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2014-08-23T09:22:09.27"
    xmp:CreateDate="2014-08-23T09:22:09.27"
-   xmp:MetadataDate="2018-08-06T16:42:54-07:00"
+   xmp:MetadataDate="2018-08-07T19:36:15-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 60D"
    tiff:Orientation="1"
@@ -55,7 +55,7 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="18B6A3C20116591B4A4FDB888F218DA7"
    xmpMM:OriginalDocumentID="18B6A3C20116591B4A4FDB888F218DA7"
-   xmpMM:InstanceID="xmp.iid:6b1744e8-20f5-4d32-aa76-82b5878cbd70"
+   xmpMM:InstanceID="xmp.iid:aba039e7-66ef-4fc5-8ed7-839a700fb66e"
    crs:Version="10.2"
    crs:ProcessVersion="10.0"
    crs:WhiteBalance="Custom"
@@ -153,6 +153,12 @@
    crs:CameraProfile="Adobe Standard"
    crs:CameraProfileDigest="91F0E959CCCF4F80FB56FBB1875E2FE0"
    crs:LensProfileSetup="LensDefaults"
+   crs:LensProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS)"
+   crs:LensProfileFilename="Canon EOS 50D (Canon EF-S 18-135mm f3.5-5.6 IS) - RAW.lcp"
+   crs:LensProfileDigest="99679FE8D18707EEC1A3820151552A5D"
+   crs:LensProfileDistortionScale="100"
+   crs:LensProfileChromaticAberrationScale="100"
+   crs:LensProfileVignettingScale="100"
    crs:UprightVersion="151388160"
    crs:UprightCenterMode="0"
    crs:UprightCenterNormX="0.550317"
@@ -202,8 +208,8 @@
       stEvt:changed="/metadata"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:6b1744e8-20f5-4d32-aa76-82b5878cbd70"
-      stEvt:when="2018-08-06T16:42:54-07:00"
+      stEvt:instanceID="xmp.iid:aba039e7-66ef-4fc5-8ed7-839a700fb66e"
+      stEvt:when="2018-08-07T19:36:15-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
