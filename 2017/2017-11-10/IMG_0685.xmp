@@ -14,26 +14,26 @@
     xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
     xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
     xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
-   xmp:ModifyDate="2017-11-11T23:05:43.26"
-   xmp:CreateDate="2017-11-11T23:05:43.26"
-   xmp:MetadataDate="2018-08-09T20:40:42-07:00"
+   xmp:ModifyDate="2017-11-10T22:15:08.31"
+   xmp:CreateDate="2017-11-10T22:15:08.31"
+   xmp:MetadataDate="2018-08-09T20:47:28-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="1"
    tiff:ImageWidth="5472"
    tiff:ImageLength="3648"
    exif:ExifVersion="0230"
-   exif:ExposureTime="1/640"
-   exif:ShutterSpeedValue="9321928/1000000"
+   exif:ExposureTime="1/8"
+   exif:ShutterSpeedValue="3/1"
    exif:FNumber="28/10"
    exif:ApertureValue="2970854/1000000"
    exif:ExposureProgram="3"
    exif:SensitivityType="2"
-   exif:RecommendedExposureIndex="320"
+   exif:RecommendedExposureIndex="100"
    exif:ExposureBiasValue="-2/3"
    exif:MaxApertureValue="3/1"
    exif:MeteringMode="5"
-   exif:FocalLength="45/1"
+   exif:FocalLength="24/1"
    exif:CustomRendered="0"
    exif:ExposureMode="0"
    exif:WhiteBalance="0"
@@ -41,7 +41,7 @@
    exif:FocalPlaneXResolution="49807360/32768"
    exif:FocalPlaneYResolution="49807360/32768"
    exif:FocalPlaneResolutionUnit="3"
-   exif:DateTimeOriginal="2017-11-11T23:05:43.26"
+   exif:DateTimeOriginal="2017-11-10T22:15:08.31"
    exif:PixelXDimension="5472"
    exif:PixelYDimension="3648"
    dc:format="image/x-canon-cr2"
@@ -51,16 +51,16 @@
    aux:LensID="495"
    aux:LensSerialNumber="2620000599"
    aux:ImageNumber="0"
-   aux:ApproximateFocusDistance="619/100"
+   aux:ApproximateFocusDistance="158/100"
    aux:FlashCompensation="0/1"
    aux:Firmware="1.1.6"
    exifEX:LensModel="EF24-70mm f/2.8L II USM"
-   photoshop:DateCreated="2017-11-11T23:05:43.26"
+   photoshop:DateCreated="2017-11-10T22:15:08.31"
    photoshop:SidecarForExtension="CR2"
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
-   xmpMM:DocumentID="AA9176AF5DD61353B97D77E6B0CB5158"
-   xmpMM:OriginalDocumentID="AA9176AF5DD61353B97D77E6B0CB5158"
-   xmpMM:InstanceID="xmp.iid:bfb12562-427f-4e5b-b174-31940faa7e04"
+   xmpMM:DocumentID="F0E4CE990B2E645091A013C5CAFE66CD"
+   xmpMM:OriginalDocumentID="F0E4CE990B2E645091A013C5CAFE66CD"
+   xmpMM:InstanceID="xmp.iid:f6fdb1d8-baeb-46c0-a27c-c6485209a3d2"
    crs:Version="10.2"
    crs:ProcessVersion="10.0"
    crs:WhiteBalance="Custom"
@@ -118,7 +118,7 @@
    crs:SharpenRadius="+1.0"
    crs:SharpenDetail="25"
    crs:SharpenEdgeMasking="0"
-   crs:PostCropVignetteAmount="-12"
+   crs:PostCropVignetteAmount="-13"
    crs:PostCropVignetteMidpoint="0"
    crs:PostCropVignetteFeather="100"
    crs:PostCropVignetteRoundness="0"
@@ -166,32 +166,33 @@
    crs:LensProfileVignettingScale="100"
    crs:UprightVersion="151388160"
    crs:UprightCenterMode="0"
-   crs:UprightCenterNormX="0.490587"
-   crs:UprightCenterNormY="0.507078"
+   crs:UprightCenterNormX="0.490141"
+   crs:UprightCenterNormY="0.493669"
    crs:UprightFocalMode="0"
-   crs:UprightFocalLength35mm="48.3392"
+   crs:UprightFocalLength35mm="23.8832"
    crs:UprightPreview="False"
+   crs:UprightDependentDigest="2F1C079C21AE0DC1773923B568651858"
    crs:UprightTransformCount="6"
    crs:UprightTransform_0="1.000000000,0.000000000,0.000000000,0.000000000,1.000000000,0.000000000,0.000000000,0.000000000,1.000000000"
-   crs:UprightTransform_1="1.028460821,-0.013562853,-0.007422271,0.030609308,1.029426238,-0.029988225,0.000000110,0.000058940,1.000000000"
-   crs:UprightTransform_2="0.498046361,-0.011401956,-0.000000000,-0.249746422,0.463838165,0.256286629,-0.575172829,-0.009734789,1.000000000"
-   crs:UprightTransform_3="1.029338787,-0.013603352,-0.007867717,0.030607540,1.029338787,-0.029973164,0.000000000,0.000000000,1.000000000"
-   crs:UprightTransform_4="1.013747692,-0.023076416,-0.005749522,0.026824854,1.003434056,-0.026613954,-0.000124596,-0.022899578,1.000000000"
+   crs:UprightTransform_1="1.211595377,0.094816286,-0.090108000,0.014943076,1.296476412,-0.050896831,0.041670481,0.177681195,1.000000000"
+   crs:UprightTransform_2="1.110268771,0.139549571,-0.061098888,-0.021867377,1.286901470,0.000460606,-0.000022282,0.265516981,1.000000000"
+   crs:UprightTransform_3="1.012149110,0.005490603,-0.008819856,-0.012353858,1.012149109,0.000102375,0.000000000,0.000000000,1.000000000"
+   crs:UprightTransform_4="1.110287111,0.139552265,-0.061098433,-0.021850260,1.286911923,0.000458442,-0.000000002,0.265520107,1.000000000"
    crs:UprightTransform_5="1.000000000,0.000000000,0.000000000,0.000000000,1.000000000,0.000000000,0.000000000,0.000000000,1.000000000"
    crs:UprightFourSegmentsCount="0"
    crs:HasSettings="True"
-   crs:CropTop="0.167497"
-   crs:CropLeft="0.286295"
-   crs:CropBottom="0.878988"
-   crs:CropRight="0.553104"
+   crs:CropTop="0.000001"
+   crs:CropLeft="0.455331"
+   crs:CropBottom="1"
+   crs:CropRight="0.830331"
    crs:CropAngle="0"
    crs:CropConstrainToWarp="0"
    crs:HasCrop="True"
    crs:AlreadyApplied="False"
-   crs:RawFileName="IMG_0836.CR2">
+   crs:RawFileName="IMG_0685.CR2">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
-     <rdf:li>320</rdf:li>
+     <rdf:li>100</rdf:li>
     </rdf:Seq>
    </exif:ISOSpeedRatings>
    <exif:Flash
@@ -209,8 +210,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:bfb12562-427f-4e5b-b174-31940faa7e04"
-      stEvt:when="2018-08-09T20:40:42-07:00"
+      stEvt:instanceID="xmp.iid:f6fdb1d8-baeb-46c0-a27c-c6485209a3d2"
+      stEvt:when="2018-08-09T20:47:28-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -304,55 +305,9 @@
          crs:What="Mask/Gradient"
          crs:MaskValue="1.000000"
          crs:ZeroX="0.711897"
-         crs:ZeroY="0.606562"
+         crs:ZeroY="0.606356"
          crs:FullX="0.711706"
-         crs:FullY="0.989476"/>
-       </rdf:Seq>
-      </crs:CorrectionMasks>
-      <crs:CorrectionRangeMask
-       crs:Version="+2"
-       crs:Type="0"
-       crs:ColorAmount="0.500000"
-       crs:LumMin="0.000000"
-       crs:LumMax="1.000000"
-       crs:LumFeather="0.500000"/>
-      </rdf:Description>
-     </rdf:li>
-     <rdf:li>
-      <rdf:Description
-       crs:What="Correction"
-       crs:CorrectionAmount="1.000000"
-       crs:CorrectionActive="true"
-       crs:LocalExposure="0.000000"
-       crs:LocalSaturation="0.000000"
-       crs:LocalContrast="0.000000"
-       crs:LocalClarity="0.000000"
-       crs:LocalSharpness="0.000000"
-       crs:LocalBrightness="0.000000"
-       crs:LocalToningHue="240.000000"
-       crs:LocalToningSaturation="0.000000"
-       crs:LocalExposure2012="-0.294303"
-       crs:LocalContrast2012="0.000000"
-       crs:LocalHighlights2012="0.000000"
-       crs:LocalShadows2012="0.000000"
-       crs:LocalWhites2012="0.000000"
-       crs:LocalBlacks2012="0.000000"
-       crs:LocalClarity2012="0.000000"
-       crs:LocalDehaze="0.000000"
-       crs:LocalLuminanceNoise="0.000000"
-       crs:LocalMoire="0.000000"
-       crs:LocalDefringe="0.000000"
-       crs:LocalTemperature="0.000000"
-       crs:LocalTint="0.000000">
-      <crs:CorrectionMasks>
-       <rdf:Seq>
-        <rdf:li
-         crs:What="Mask/Gradient"
-         crs:MaskValue="1.000000"
-         crs:ZeroX="0.626983"
-         crs:ZeroY="0.398262"
-         crs:FullX="0.634488"
-         crs:FullY="0.090987"/>
+         crs:FullY="0.989270"/>
        </rdf:Seq>
       </crs:CorrectionMasks>
       <crs:CorrectionRangeMask
@@ -368,42 +323,20 @@
    </crs:GradientBasedCorrections>
    <mwg-rs:Regions rdf:parseType="Resource">
     <mwg-rs:AppliedToDimensions
-     stDim:w="1460"
-     stDim:h="2596"
+     stDim:w="2052"
+     stDim:h="3648"
      stDim:unit="pixel"/>
     <mwg-rs:RegionList>
      <rdf:Bag>
       <rdf:li>
        <rdf:Description
-        mwg-rs:Rotation="0.00147"
+        mwg-rs:Rotation="-0.03012"
         mwg-rs:Type="Face">
        <mwg-rs:Area
-        stArea:h="0.07290"
-        stArea:w="0.04855"
-        stArea:x="0.22825"
-        stArea:y="0.65152"/>
-       </rdf:Description>
-      </rdf:li>
-      <rdf:li>
-       <rdf:Description
-        mwg-rs:Rotation="0.13188"
-        mwg-rs:Type="Face">
-       <mwg-rs:Area
-        stArea:h="0.07210"
-        stArea:w="0.04802"
-        stArea:x="0.10444"
-        stArea:y="0.69463"/>
-       </rdf:Description>
-      </rdf:li>
-      <rdf:li>
-       <rdf:Description
-        mwg-rs:Rotation="0.06629"
-        mwg-rs:Type="Face">
-       <mwg-rs:Area
-        stArea:h="0.06508"
-        stArea:w="0.04334"
-        stArea:x="0.36637"
-        stArea:y="0.46149"/>
+        stArea:h="0.10392"
+        stArea:w="0.06921"
+        stArea:x="0.74855"
+        stArea:y="0.65012"/>
        </rdf:Description>
       </rdf:li>
      </rdf:Bag>

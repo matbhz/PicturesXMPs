@@ -11,29 +11,26 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
-    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
-    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
-    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
-   xmp:ModifyDate="2017-11-11T23:05:43.26"
-   xmp:CreateDate="2017-11-11T23:05:43.26"
-   xmp:MetadataDate="2018-08-09T20:40:42-07:00"
+   xmp:ModifyDate="2017-11-10T22:11:27.28"
+   xmp:CreateDate="2017-11-10T22:11:27.28"
+   xmp:MetadataDate="2018-08-09T20:44:10-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="1"
    tiff:ImageWidth="5472"
    tiff:ImageLength="3648"
    exif:ExifVersion="0230"
-   exif:ExposureTime="1/640"
-   exif:ShutterSpeedValue="9321928/1000000"
+   exif:ExposureTime="1/1000"
+   exif:ShutterSpeedValue="9965784/1000000"
    exif:FNumber="28/10"
    exif:ApertureValue="2970854/1000000"
    exif:ExposureProgram="3"
    exif:SensitivityType="2"
-   exif:RecommendedExposureIndex="320"
+   exif:RecommendedExposureIndex="100"
    exif:ExposureBiasValue="-2/3"
    exif:MaxApertureValue="3/1"
    exif:MeteringMode="5"
-   exif:FocalLength="45/1"
+   exif:FocalLength="70/1"
    exif:CustomRendered="0"
    exif:ExposureMode="0"
    exif:WhiteBalance="0"
@@ -41,7 +38,7 @@
    exif:FocalPlaneXResolution="49807360/32768"
    exif:FocalPlaneYResolution="49807360/32768"
    exif:FocalPlaneResolutionUnit="3"
-   exif:DateTimeOriginal="2017-11-11T23:05:43.26"
+   exif:DateTimeOriginal="2017-11-10T22:11:27.28"
    exif:PixelXDimension="5472"
    exif:PixelYDimension="3648"
    dc:format="image/x-canon-cr2"
@@ -51,16 +48,16 @@
    aux:LensID="495"
    aux:LensSerialNumber="2620000599"
    aux:ImageNumber="0"
-   aux:ApproximateFocusDistance="619/100"
+   aux:ApproximateFocusDistance="450/100"
    aux:FlashCompensation="0/1"
    aux:Firmware="1.1.6"
    exifEX:LensModel="EF24-70mm f/2.8L II USM"
-   photoshop:DateCreated="2017-11-11T23:05:43.26"
+   photoshop:DateCreated="2017-11-10T22:11:27.28"
    photoshop:SidecarForExtension="CR2"
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
-   xmpMM:DocumentID="AA9176AF5DD61353B97D77E6B0CB5158"
-   xmpMM:OriginalDocumentID="AA9176AF5DD61353B97D77E6B0CB5158"
-   xmpMM:InstanceID="xmp.iid:bfb12562-427f-4e5b-b174-31940faa7e04"
+   xmpMM:DocumentID="78C35D513084166B02853ED4928EEEAF"
+   xmpMM:OriginalDocumentID="78C35D513084166B02853ED4928EEEAF"
+   xmpMM:InstanceID="xmp.iid:cb2dadc2-0c20-46f2-82f3-c8e74a64850b"
    crs:Version="10.2"
    crs:ProcessVersion="10.0"
    crs:WhiteBalance="Custom"
@@ -118,7 +115,7 @@
    crs:SharpenRadius="+1.0"
    crs:SharpenDetail="25"
    crs:SharpenEdgeMasking="0"
-   crs:PostCropVignetteAmount="-12"
+   crs:PostCropVignetteAmount="-25"
    crs:PostCropVignetteMidpoint="0"
    crs:PostCropVignetteFeather="100"
    crs:PostCropVignetteRoundness="0"
@@ -180,18 +177,18 @@
    crs:UprightTransform_5="1.000000000,0.000000000,0.000000000,0.000000000,1.000000000,0.000000000,0.000000000,0.000000000,1.000000000"
    crs:UprightFourSegmentsCount="0"
    crs:HasSettings="True"
-   crs:CropTop="0.167497"
-   crs:CropLeft="0.286295"
-   crs:CropBottom="0.878988"
-   crs:CropRight="0.553104"
+   crs:CropTop="0"
+   crs:CropLeft="0.273086"
+   crs:CropBottom="1"
+   crs:CropRight="0.648086"
    crs:CropAngle="0"
    crs:CropConstrainToWarp="0"
    crs:HasCrop="True"
    crs:AlreadyApplied="False"
-   crs:RawFileName="IMG_0836.CR2">
+   crs:RawFileName="IMG_0672.CR2">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
-     <rdf:li>320</rdf:li>
+     <rdf:li>100</rdf:li>
     </rdf:Seq>
    </exif:ISOSpeedRatings>
    <exif:Flash
@@ -209,8 +206,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:bfb12562-427f-4e5b-b174-31940faa7e04"
-      stEvt:when="2018-08-09T20:40:42-07:00"
+      stEvt:instanceID="xmp.iid:cb2dadc2-0c20-46f2-82f3-c8e74a64850b"
+      stEvt:when="2018-08-09T20:44:10-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -304,9 +301,9 @@
          crs:What="Mask/Gradient"
          crs:MaskValue="1.000000"
          crs:ZeroX="0.711897"
-         crs:ZeroY="0.606562"
+         crs:ZeroY="0.606356"
          crs:FullX="0.711706"
-         crs:FullY="0.989476"/>
+         crs:FullY="0.989270"/>
        </rdf:Seq>
       </crs:CorrectionMasks>
       <crs:CorrectionRangeMask
@@ -366,49 +363,6 @@
      </rdf:li>
     </rdf:Seq>
    </crs:GradientBasedCorrections>
-   <mwg-rs:Regions rdf:parseType="Resource">
-    <mwg-rs:AppliedToDimensions
-     stDim:w="1460"
-     stDim:h="2596"
-     stDim:unit="pixel"/>
-    <mwg-rs:RegionList>
-     <rdf:Bag>
-      <rdf:li>
-       <rdf:Description
-        mwg-rs:Rotation="0.00147"
-        mwg-rs:Type="Face">
-       <mwg-rs:Area
-        stArea:h="0.07290"
-        stArea:w="0.04855"
-        stArea:x="0.22825"
-        stArea:y="0.65152"/>
-       </rdf:Description>
-      </rdf:li>
-      <rdf:li>
-       <rdf:Description
-        mwg-rs:Rotation="0.13188"
-        mwg-rs:Type="Face">
-       <mwg-rs:Area
-        stArea:h="0.07210"
-        stArea:w="0.04802"
-        stArea:x="0.10444"
-        stArea:y="0.69463"/>
-       </rdf:Description>
-      </rdf:li>
-      <rdf:li>
-       <rdf:Description
-        mwg-rs:Rotation="0.06629"
-        mwg-rs:Type="Face">
-       <mwg-rs:Area
-        stArea:h="0.06508"
-        stArea:w="0.04334"
-        stArea:x="0.36637"
-        stArea:y="0.46149"/>
-       </rdf:Description>
-      </rdf:li>
-     </rdf:Bag>
-    </mwg-rs:RegionList>
-   </mwg-rs:Regions>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

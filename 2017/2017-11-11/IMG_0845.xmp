@@ -16,7 +16,7 @@
     xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
    xmp:ModifyDate="2017-11-11T23:18:28.27"
    xmp:CreateDate="2017-11-11T23:18:28.27"
-   xmp:MetadataDate="2018-08-08T22:45:46-07:00"
+   xmp:MetadataDate="2018-08-09T20:40:30-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="1"
@@ -60,13 +60,13 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="5FA6D64DB5C2C7E31430AC8710563E27"
    xmpMM:OriginalDocumentID="5FA6D64DB5C2C7E31430AC8710563E27"
-   xmpMM:InstanceID="xmp.iid:f941b7ff-5a1a-4f32-be49-6c0aa467c0d6"
+   xmpMM:InstanceID="xmp.iid:f7a86cd4-5b7c-43e6-a19d-b2a583b6f23a"
    crs:Version="10.2"
    crs:ProcessVersion="10.0"
    crs:WhiteBalance="Custom"
    crs:Temperature="7541"
    crs:Tint="+18"
-   crs:Saturation="0"
+   crs:Saturation="-5"
    crs:Sharpness="43"
    crs:LuminanceSmoothing="14"
    crs:ColorNoiseReduction="0"
@@ -87,7 +87,7 @@
    crs:HueAdjustmentBlue="0"
    crs:HueAdjustmentPurple="0"
    crs:HueAdjustmentMagenta="0"
-   crs:SaturationAdjustmentRed="-29"
+   crs:SaturationAdjustmentRed="+67"
    crs:SaturationAdjustmentOrange="-28"
    crs:SaturationAdjustmentYellow="-22"
    crs:SaturationAdjustmentGreen="+35"
@@ -138,9 +138,9 @@
    crs:PerspectiveX="0.00"
    crs:PerspectiveY="0.00"
    crs:AutoLateralCA="1"
-   crs:Exposure2012="-0.70"
+   crs:Exposure2012="-0.60"
    crs:Contrast2012="0"
-   crs:Highlights2012="-33"
+   crs:Highlights2012="-90"
    crs:Shadows2012="+43"
    crs:Whites2012="0"
    crs:Blacks2012="0"
@@ -154,7 +154,7 @@
    crs:Dehaze="0"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName="Medium Contrast"
-   crs:ToneCurveName2012="NepealCurve"
+   crs:ToneCurveName2012="Custom"
    crs:CameraProfile="Adobe Standard"
    crs:CameraProfileDigest="98BA1AFA1155D0472068BB57D3655975"
    crs:LensProfileSetup="LensDefaults"
@@ -181,9 +181,9 @@
    crs:UprightFourSegmentsCount="0"
    crs:HasSettings="True"
    crs:CropTop="0"
-   crs:CropLeft="0.359687"
-   crs:CropBottom="0.998337"
-   crs:CropRight="0.734064"
+   crs:CropLeft="0.370659"
+   crs:CropBottom="0.999999"
+   crs:CropRight="0.745659"
    crs:CropAngle="0"
    crs:CropConstrainToWarp="0"
    crs:HasCrop="True"
@@ -209,8 +209,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:f941b7ff-5a1a-4f32-be49-6c0aa467c0d6"
-      stEvt:when="2018-08-08T22:45:46-07:00"
+      stEvt:instanceID="xmp.iid:f7a86cd4-5b7c-43e6-a19d-b2a583b6f23a"
+      stEvt:when="2018-08-09T20:40:30-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -248,7 +248,7 @@
      <rdf:li>0, 0</rdf:li>
      <rdf:li>73, 68</rdf:li>
      <rdf:li>129, 138</rdf:li>
-     <rdf:li>182, 204</rdf:li>
+     <rdf:li>185, 194</rdf:li>
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012>
@@ -368,8 +368,8 @@
    </crs:GradientBasedCorrections>
    <mwg-rs:Regions rdf:parseType="Resource">
     <mwg-rs:AppliedToDimensions
-     stDim:w="2049"
-     stDim:h="3642"
+     stDim:w="2052"
+     stDim:h="3648"
      stDim:unit="pixel"/>
     <mwg-rs:RegionList>
      <rdf:Bag>

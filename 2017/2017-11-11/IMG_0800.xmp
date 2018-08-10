@@ -16,7 +16,7 @@
     xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
    xmp:ModifyDate="2017-11-11T20:27:31.46"
    xmp:CreateDate="2017-11-11T20:27:31.46"
-   xmp:MetadataDate="2018-08-08T22:32:33-07:00"
+   xmp:MetadataDate="2018-08-09T20:58:27-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="8"
@@ -60,7 +60,7 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="C0C139A0C94DDE3B30F5895E7990B743"
    xmpMM:OriginalDocumentID="C0C139A0C94DDE3B30F5895E7990B743"
-   xmpMM:InstanceID="xmp.iid:7faf5b69-8566-43b9-919c-a4c52df0a9d0"
+   xmpMM:InstanceID="xmp.iid:341936c4-25a9-4c42-9b43-17c3828837a1"
    crs:Version="10.2"
    crs:ProcessVersion="10.0"
    crs:WhiteBalance="Custom"
@@ -154,7 +154,7 @@
    crs:Dehaze="0"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName="Medium Contrast"
-   crs:ToneCurveName2012="Custom"
+   crs:ToneCurveName2012="NepealCurve"
    crs:CameraProfile="Adobe Standard"
    crs:CameraProfileDigest="98BA1AFA1155D0472068BB57D3655975"
    crs:LensProfileSetup="LensDefaults"
@@ -209,8 +209,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:7faf5b69-8566-43b9-919c-a4c52df0a9d0"
-      stEvt:when="2018-08-08T22:32:33-07:00"
+      stEvt:instanceID="xmp.iid:341936c4-25a9-4c42-9b43-17c3828837a1"
+      stEvt:when="2018-08-09T20:58:27-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
