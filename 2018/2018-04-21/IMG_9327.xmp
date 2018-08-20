@@ -13,7 +13,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2018-04-21T08:43:17.00"
    xmp:CreateDate="2018-04-21T08:43:17.00"
-   xmp:MetadataDate="2018-08-04T17:54:47-07:00"
+   xmp:MetadataDate="2018-08-10T17:20:40-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="1"
@@ -57,7 +57,7 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="77FA7B4144386A3F19CE59C04CEC6C78"
    xmpMM:OriginalDocumentID="77FA7B4144386A3F19CE59C04CEC6C78"
-   xmpMM:InstanceID="xmp.iid:69fa12e4-d3eb-4b31-afef-1885b31638dd"
+   xmpMM:InstanceID="xmp.iid:cbe57e87-ba68-47cd-bd75-5f920135242a"
    crs:Version="10.2"
    crs:ProcessVersion="10.0"
    crs:WhiteBalance="Custom"
@@ -65,7 +65,7 @@
    crs:Tint="+16"
    crs:Saturation="0"
    crs:Sharpness="61"
-   crs:LuminanceSmoothing="0"
+   crs:LuminanceSmoothing="13"
    crs:ColorNoiseReduction="25"
    crs:VignetteAmount="0"
    crs:ShadowTint="0"
@@ -122,7 +122,9 @@
    crs:PostCropVignetteStyle="1"
    crs:PostCropVignetteHighlightContrast="0"
    crs:GrainAmount="0"
+   crs:LuminanceNoiseReductionDetail="50"
    crs:ColorNoiseReductionDetail="50"
+   crs:LuminanceNoiseReductionContrast="0"
    crs:ColorNoiseReductionSmoothness="50"
    crs:LensProfileEnable="1"
    crs:LensManualDistortionAmount="0"
@@ -207,8 +209,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:69fa12e4-d3eb-4b31-afef-1885b31638dd"
-      stEvt:when="2018-08-04T17:54:47-07:00"
+      stEvt:instanceID="xmp.iid:cbe57e87-ba68-47cd-bd75-5f920135242a"
+      stEvt:when="2018-08-10T17:20:40-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
