@@ -13,7 +13,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2017-12-09T21:55:11.66"
    xmp:CreateDate="2017-12-09T21:55:11.66"
-   xmp:MetadataDate="2018-08-10T18:06:25-07:00"
+   xmp:MetadataDate="2018-08-24T22:31:20-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="1"
@@ -57,7 +57,7 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="C5F896A944D5C275A99B134EDA51946A"
    xmpMM:OriginalDocumentID="C5F896A944D5C275A99B134EDA51946A"
-   xmpMM:InstanceID="xmp.iid:ff9552ea-2919-4c14-b6ad-24190b7ea712"
+   xmpMM:InstanceID="xmp.iid:0b6d8bc0-d899-4134-a2b6-96e70c59d2a8"
    crs:Version="10.2"
    crs:ProcessVersion="10.0"
    crs:WhiteBalance="Custom"
@@ -137,7 +137,7 @@
    crs:PerspectiveX="0.00"
    crs:PerspectiveY="0.00"
    crs:AutoLateralCA="1"
-   crs:Exposure2012="-0.40"
+   crs:Exposure2012="-0.80"
    crs:Contrast2012="0"
    crs:Highlights2012="-37"
    crs:Shadows2012="+69"
@@ -209,8 +209,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:ff9552ea-2919-4c14-b6ad-24190b7ea712"
-      stEvt:when="2018-08-10T18:06:25-07:00"
+      stEvt:instanceID="xmp.iid:0b6d8bc0-d899-4134-a2b6-96e70c59d2a8"
+      stEvt:when="2018-08-24T22:31:20-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>

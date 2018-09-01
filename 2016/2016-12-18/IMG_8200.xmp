@@ -1,4 +1,4 @@
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
@@ -12,7 +12,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2016-12-18T12:25:41.12"
    xmp:CreateDate="2016-12-18T12:25:41.12"
-   xmp:MetadataDate="2016-12-19T20:10:09-08:00"
+   xmp:MetadataDate="2018-08-31T20:54:39-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="1"
@@ -55,11 +55,10 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="1338768E203AA0901DB6961DF6841884"
    xmpMM:OriginalDocumentID="1338768E203AA0901DB6961DF6841884"
-   xmpMM:InstanceID="xmp.iid:9933b749-f901-4e98-aaac-79df21877d03"
-   crs:Version="9.6"
-   crs:ProcessVersion="6.7"
+   xmpMM:InstanceID="xmp.iid:30200ff0-b647-40fb-b89e-0544b74016e1"
+   crs:Version="10.2"
+   crs:ProcessVersion="10.0"
    crs:WhiteBalance="As Shot"
-   crs:AutoWhiteVersion="134348800"
    crs:Temperature="5500"
    crs:Tint="+14"
    crs:Saturation="0"
@@ -143,7 +142,6 @@
    crs:DefringeGreenHueLo="40"
    crs:DefringeGreenHueHi="60"
    crs:Dehaze="0"
-   crs:ToneMapStrength="0"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName="Medium Contrast"
    crs:ToneCurveName2012="Linear"
@@ -160,6 +158,13 @@
    crs:UprightTransformCount="6"
    crs:UprightFourSegmentsCount="0"
    crs:HasSettings="True"
+   crs:CropTop="0"
+   crs:CropLeft="0.108696"
+   crs:CropBottom="1"
+   crs:CropRight="0.642028"
+   crs:CropAngle="0"
+   crs:CropConstrainToWarp="0"
+   crs:HasCrop="True"
    crs:AlreadyApplied="False"
    crs:RawFileName="IMG_8200.CR2">
    <exif:ISOSpeedRatings>
@@ -185,6 +190,12 @@
       stEvt:instanceID="xmp.iid:9933b749-f901-4e98-aaac-79df21877d03"
       stEvt:when="2016-12-19T20:10:09-08:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.6.1 (Macintosh)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:30200ff0-b647-40fb-b89e-0544b74016e1"
+      stEvt:when="2018-08-31T20:54:39-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>

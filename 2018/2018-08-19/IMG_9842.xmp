@@ -13,7 +13,7 @@
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
    xmp:ModifyDate="2018-08-19T06:47:36.00"
    xmp:CreateDate="2018-08-19T06:47:36.00"
-   xmp:MetadataDate="2018-08-19T16:41:03-07:00"
+   xmp:MetadataDate="2018-08-20T19:21:54-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
    tiff:Orientation="1"
@@ -57,7 +57,7 @@
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
    xmpMM:DocumentID="AE8E607D25EE42D3A72381D1ADDEC0EC"
    xmpMM:OriginalDocumentID="AE8E607D25EE42D3A72381D1ADDEC0EC"
-   xmpMM:InstanceID="xmp.iid:a03f6cb2-1d2b-4f44-8a71-1a3cf09a6f24"
+   xmpMM:InstanceID="xmp.iid:16ba8506-14ae-4170-a907-83bd29dc7551"
    crs:Version="10.2"
    crs:ProcessVersion="10.0"
    crs:WhiteBalance="Custom"
@@ -135,13 +135,13 @@
    crs:PerspectiveX="0.00"
    crs:PerspectiveY="0.00"
    crs:AutoLateralCA="1"
-   crs:Exposure2012="-0.75"
+   crs:Exposure2012="-1.15"
    crs:Contrast2012="+36"
    crs:Highlights2012="-48"
    crs:Shadows2012="0"
    crs:Whites2012="+43"
    crs:Blacks2012="+75"
-   crs:Clarity2012="0"
+   crs:Clarity2012="-38"
    crs:DefringePurpleAmount="0"
    crs:DefringePurpleHueLo="30"
    crs:DefringePurpleHueHi="70"
@@ -207,8 +207,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:a03f6cb2-1d2b-4f44-8a71-1a3cf09a6f24"
-      stEvt:when="2018-08-19T16:41:03-07:00"
+      stEvt:instanceID="xmp.iid:16ba8506-14ae-4170-a907-83bd29dc7551"
+      stEvt:when="2018-08-20T19:21:54-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -488,7 +488,7 @@
          crs:Angle="0.000000"
          crs:Midpoint="+50"
          crs:Roundness="0"
-         crs:Feather="+100"
+         crs:Feather="+79"
          crs:Flipped="true"
          crs:Version="+2"/>
        </rdf:Seq>
