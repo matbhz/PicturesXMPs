@@ -11,26 +11,29 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
     xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
-   xmp:ModifyDate="2018-09-02T08:32:52.60"
-   xmp:CreateDate="2018-09-02T08:32:52.60"
-   xmp:MetadataDate="2018-09-27T20:38:25-07:00"
+    xmlns:mwg-rs="http://www.metadataworkinggroup.com/schemas/regions/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:stArea="http://ns.adobe.com/xmp/sType/Area#"
+   xmp:ModifyDate="2018-09-30T17:46:09.81"
+   xmp:CreateDate="2018-09-30T17:46:09.81"
+   xmp:MetadataDate="2018-10-20T17:46:43-07:00"
    tiff:Make="Canon"
    tiff:Model="Canon EOS 6D"
-   tiff:Orientation="1"
+   tiff:Orientation="8"
    tiff:ImageWidth="5472"
    tiff:ImageLength="3648"
    exif:ExifVersion="0230"
-   exif:ExposureTime="1/50"
-   exif:ShutterSpeedValue="5643856/1000000"
-   exif:FNumber="28/10"
-   exif:ApertureValue="2970854/1000000"
+   exif:ExposureTime="1/200"
+   exif:ShutterSpeedValue="7643856/1000000"
+   exif:FNumber="71/10"
+   exif:ApertureValue="5655638/1000000"
    exif:ExposureProgram="3"
    exif:SensitivityType="2"
-   exif:RecommendedExposureIndex="640"
+   exif:RecommendedExposureIndex="1600"
    exif:ExposureBiasValue="-2/3"
    exif:MaxApertureValue="3/1"
    exif:MeteringMode="5"
-   exif:FocalLength="70/1"
+   exif:FocalLength="24/1"
    exif:CustomRendered="0"
    exif:ExposureMode="0"
    exif:WhiteBalance="0"
@@ -38,7 +41,7 @@
    exif:FocalPlaneXResolution="49807360/32768"
    exif:FocalPlaneYResolution="49807360/32768"
    exif:FocalPlaneResolutionUnit="3"
-   exif:DateTimeOriginal="2018-09-02T08:32:52.60"
+   exif:DateTimeOriginal="2018-09-30T17:46:09.81"
    exif:PixelXDimension="5472"
    exif:PixelYDimension="3648"
    dc:format="image/x-canon-cr2"
@@ -48,23 +51,23 @@
    aux:LensID="495"
    aux:LensSerialNumber="2620000599"
    aux:ImageNumber="0"
-   aux:ApproximateFocusDistance="206/1"
+   aux:ApproximateFocusDistance="110/100"
    aux:FlashCompensation="0/1"
    aux:Firmware="1.1.6"
    exifEX:LensModel="EF24-70mm f/2.8L II USM"
-   photoshop:DateCreated="2018-09-02T08:32:52.60"
+   photoshop:DateCreated="2018-09-30T17:46:09.81"
    photoshop:SidecarForExtension="CR2"
    photoshop:EmbeddedXMPDigest="AD0ACF660F79AC49FD004B2DD3BC0461"
-   xmpMM:DocumentID="FAA623252422438D59EEC87CD08E3DBF"
-   xmpMM:OriginalDocumentID="FAA623252422438D59EEC87CD08E3DBF"
-   xmpMM:InstanceID="xmp.iid:4580031d-8ea5-4910-ae81-07a631654a8c"
+   xmpMM:DocumentID="4C5CBF73D0DA4E786D263C645252AEEF"
+   xmpMM:OriginalDocumentID="4C5CBF73D0DA4E786D263C645252AEEF"
+   xmpMM:InstanceID="xmp.iid:16412c04-b105-4735-9f47-26a5afd15201"
    crs:Version="10.2"
    crs:ProcessVersion="10.0"
    crs:WhiteBalance="Custom"
-   crs:Temperature="6500"
-   crs:Tint="+12"
-   crs:Saturation="0"
-   crs:Sharpness="67"
+   crs:Temperature="7152"
+   crs:Tint="+26"
+   crs:Saturation="-30"
+   crs:Sharpness="81"
    crs:LuminanceSmoothing="0"
    crs:ColorNoiseReduction="25"
    crs:VignetteAmount="0"
@@ -75,18 +78,18 @@
    crs:GreenSaturation="0"
    crs:BlueHue="0"
    crs:BlueSaturation="0"
-   crs:Vibrance="0"
+   crs:Vibrance="-30"
    crs:HueAdjustmentRed="0"
-   crs:HueAdjustmentOrange="0"
-   crs:HueAdjustmentYellow="-53"
+   crs:HueAdjustmentOrange="-20"
+   crs:HueAdjustmentYellow="-20"
    crs:HueAdjustmentGreen="0"
    crs:HueAdjustmentAqua="0"
    crs:HueAdjustmentBlue="0"
-   crs:HueAdjustmentPurple="+3"
+   crs:HueAdjustmentPurple="0"
    crs:HueAdjustmentMagenta="0"
-   crs:SaturationAdjustmentRed="-4"
-   crs:SaturationAdjustmentOrange="+25"
-   crs:SaturationAdjustmentYellow="-60"
+   crs:SaturationAdjustmentRed="+50"
+   crs:SaturationAdjustmentOrange="+50"
+   crs:SaturationAdjustmentYellow="+50"
    crs:SaturationAdjustmentGreen="0"
    crs:SaturationAdjustmentAqua="0"
    crs:SaturationAdjustmentBlue="0"
@@ -100,9 +103,9 @@
    crs:LuminanceAdjustmentBlue="0"
    crs:LuminanceAdjustmentPurple="0"
    crs:LuminanceAdjustmentMagenta="0"
-   crs:SplitToningShadowHue="283"
-   crs:SplitToningShadowSaturation="13"
-   crs:SplitToningHighlightHue="262"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="0"
    crs:SplitToningHighlightSaturation="0"
    crs:SplitToningBalance="0"
    crs:ParametricShadows="0"
@@ -115,9 +118,9 @@
    crs:SharpenRadius="+1.0"
    crs:SharpenDetail="25"
    crs:SharpenEdgeMasking="0"
-   crs:PostCropVignetteAmount="-31"
-   crs:PostCropVignetteMidpoint="38"
-   crs:PostCropVignetteFeather="95"
+   crs:PostCropVignetteAmount="-40"
+   crs:PostCropVignetteMidpoint="10"
+   crs:PostCropVignetteFeather="100"
    crs:PostCropVignetteRoundness="0"
    crs:PostCropVignetteStyle="1"
    crs:PostCropVignetteHighlightContrast="0"
@@ -135,13 +138,13 @@
    crs:PerspectiveX="0.00"
    crs:PerspectiveY="0.00"
    crs:AutoLateralCA="1"
-   crs:Exposure2012="+0.80"
+   crs:Exposure2012="-1.20"
    crs:Contrast2012="0"
    crs:Highlights2012="0"
-   crs:Shadows2012="0"
-   crs:Whites2012="0"
-   crs:Blacks2012="0"
-   crs:Clarity2012="-35"
+   crs:Shadows2012="+40"
+   crs:Whites2012="+62"
+   crs:Blacks2012="-12"
+   crs:Clarity2012="0"
    crs:DefringePurpleAmount="0"
    crs:DefringePurpleHueLo="30"
    crs:DefringePurpleHueHi="70"
@@ -163,33 +166,32 @@
    crs:LensProfileVignettingScale="100"
    crs:UprightVersion="151388160"
    crs:UprightCenterMode="0"
-   crs:UprightCenterNormX="0.5"
-   crs:UprightCenterNormY="0.5"
+   crs:UprightCenterNormX="0.523375"
+   crs:UprightCenterNormY="0.495992"
    crs:UprightFocalMode="0"
-   crs:UprightFocalLength35mm="69.6592"
+   crs:UprightFocalLength35mm="23.8832"
    crs:UprightPreview="False"
-   crs:UprightDependentDigest="2F1C079C21AE0DC1773923B568651858"
    crs:UprightTransformCount="6"
    crs:UprightTransform_0="1.000000000,0.000000000,0.000000000,0.000000000,1.000000000,0.000000000,0.000000000,0.000000000,1.000000000"
-   crs:UprightTransform_1="1.012296255,0.005562632,-0.008929444,-0.012515920,1.012296255,0.000109833,0.000000000,0.000000000,1.000000000"
-   crs:UprightTransform_2="1.012296255,0.005562632,-0.008929444,-0.012515920,1.012296255,0.000109833,0.000000000,0.000000000,1.000000000"
-   crs:UprightTransform_3="1.012306921,0.005562690,-0.008934806,-0.012516052,1.012306921,0.000104565,0.000000000,0.000000000,1.000000000"
-   crs:UprightTransform_4="1.012296255,0.005562632,-0.008929444,-0.012515920,1.012296255,0.000109833,0.000000000,0.000000000,1.000000000"
+   crs:UprightTransform_1="0.948184170,-0.014032256,-0.006231689,-0.072944100,0.947979634,0.000479173,-0.059284533,-0.070284023,1.000000000"
+   crs:UprightTransform_2="0.974421987,-0.020427670,-0.001910400,-0.055402217,0.954390536,0.000104226,-0.025323775,-0.077669149,1.000000000"
+   crs:UprightTransform_3="1.049986667,0.023892918,-0.036939793,-0.053759065,1.049986667,0.001886199,0.000000000,0.000000000,1.000000000"
+   crs:UprightTransform_4="1.001280766,-0.020940915,-0.002600098,-0.046290734,0.967483315,0.000120119,-0.000012181,-0.078203659,1.000000000"
    crs:UprightTransform_5="1.000000000,0.000000000,0.000000000,0.000000000,1.000000000,0.000000000,0.000000000,0.000000000,1.000000000"
    crs:UprightFourSegmentsCount="0"
    crs:HasSettings="True"
    crs:CropTop="0"
-   crs:CropLeft="0.111808"
+   crs:CropLeft="0"
    crs:CropBottom="1"
-   crs:CropRight="0.645141"
+   crs:CropRight="0.888888"
    crs:CropAngle="0"
    crs:CropConstrainToWarp="0"
    crs:HasCrop="True"
    crs:AlreadyApplied="False"
-   crs:RawFileName="IMG_1335.CR2">
+   crs:RawFileName="IMG_1939.CR2">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
-     <rdf:li>640</rdf:li>
+     <rdf:li>1600</rdf:li>
     </rdf:Seq>
    </exif:ISOSpeedRatings>
    <exif:Flash
@@ -207,8 +209,8 @@
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:4580031d-8ea5-4910-ae81-07a631654a8c"
-      stEvt:when="2018-09-27T20:38:25-07:00"
+      stEvt:instanceID="xmp.iid:16412c04-b105-4735-9f47-26a5afd15201"
+      stEvt:when="2018-10-20T17:46:43-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.2 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
@@ -244,9 +246,9 @@
    <crs:ToneCurvePV2012>
     <rdf:Seq>
      <rdf:li>0, 0</rdf:li>
-     <rdf:li>62, 55</rdf:li>
-     <rdf:li>125, 124</rdf:li>
-     <rdf:li>187, 205</rdf:li>
+     <rdf:li>72, 66</rdf:li>
+     <rdf:li>124, 135</rdf:li>
+     <rdf:li>185, 196</rdf:li>
      <rdf:li>255, 255</rdf:li>
     </rdf:Seq>
    </crs:ToneCurvePV2012>
@@ -283,13 +285,13 @@
        crs:LocalBrightness="0.000000"
        crs:LocalToningHue="240.000000"
        crs:LocalToningSaturation="0.000000"
-       crs:LocalExposure2012="0.040682"
+       crs:LocalExposure2012="0.000000"
        crs:LocalContrast2012="0.000000"
        crs:LocalHighlights2012="0.000000"
        crs:LocalShadows2012="0.000000"
        crs:LocalWhites2012="0.000000"
        crs:LocalBlacks2012="0.000000"
-       crs:LocalClarity2012="0.160728"
+       crs:LocalClarity2012="0.354707"
        crs:LocalDehaze="0.000000"
        crs:LocalLuminanceNoise="0.000000"
        crs:LocalMoire="0.000000"
@@ -301,10 +303,10 @@
         <rdf:li
          crs:What="Mask/Gradient"
          crs:MaskValue="1.000000"
-         crs:ZeroX="0.403841"
-         crs:ZeroY="0.709185"
-         crs:FullX="0.487165"
-         crs:FullY="-0.038806"/>
+         crs:ZeroX="0.585908"
+         crs:ZeroY="0.514630"
+         crs:FullX="0.140250"
+         crs:FullY="0.515725"/>
        </rdf:Seq>
       </crs:CorrectionMasks>
       <crs:CorrectionRangeMask
@@ -329,9 +331,9 @@
        crs:LocalBrightness="0.000000"
        crs:LocalToningHue="240.000000"
        crs:LocalToningSaturation="0.000000"
-       crs:LocalExposure2012="-0.118140"
+       crs:LocalExposure2012="0.243902"
        crs:LocalContrast2012="0.000000"
-       crs:LocalHighlights2012="0.000000"
+       crs:LocalHighlights2012="-0.485899"
        crs:LocalShadows2012="0.000000"
        crs:LocalWhites2012="0.000000"
        crs:LocalBlacks2012="0.000000"
@@ -347,10 +349,10 @@
         <rdf:li
          crs:What="Mask/Gradient"
          crs:MaskValue="1.000000"
-         crs:ZeroX="0.411924"
-         crs:ZeroY="0.503128"
-         crs:FullX="0.375568"
-         crs:FullY="0.830099"/>
+         crs:ZeroX="0.327728"
+         crs:ZeroY="0.510735"
+         crs:FullX="0.773363"
+         crs:FullY="0.509560"/>
        </rdf:Seq>
       </crs:CorrectionMasks>
       <crs:CorrectionRangeMask
@@ -364,6 +366,38 @@
      </rdf:li>
     </rdf:Seq>
    </crs:GradientBasedCorrections>
+   <mwg-rs:Regions rdf:parseType="Resource">
+    <mwg-rs:AppliedToDimensions
+     stDim:w="3648"
+     stDim:h="4864"
+     stDim:unit="pixel"/>
+    <mwg-rs:RegionList>
+     <rdf:Bag>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="1.73810"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.04338"
+        stArea:w="0.02889"
+        stArea:x="0.70423"
+        stArea:y="0.63525"/>
+       </rdf:Description>
+      </rdf:li>
+      <rdf:li>
+       <rdf:Description
+        mwg-rs:Rotation="1.80080"
+        mwg-rs:Type="Face">
+       <mwg-rs:Area
+        stArea:h="0.04338"
+        stArea:w="0.02889"
+        stArea:x="0.66980"
+        stArea:y="0.63651"/>
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Bag>
+    </mwg-rs:RegionList>
+   </mwg-rs:Regions>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
